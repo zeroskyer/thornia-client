@@ -23,7 +23,7 @@ NOTE: Set it to "false" or only "" to not use the client folder, so everything w
 			"name": "bin"
 		}
 	],
-	"clientFolder": "Thornia",
+	"clientFolder": "Tibia",
 	"newClientUrl" : "https://github.com/zeroskyer/thornia-client/releases/download/ThorniaLauncher1.0.1/thornia.zip",
 	"clientExecutable": "client.exe"
 }
